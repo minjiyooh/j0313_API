@@ -1,4 +1,4 @@
-package api2_String;
+package api2_System;
 
 public class T1_trim {
 	public static void main(String[] args) {

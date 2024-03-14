@@ -1,4 +1,4 @@
-package api1_object;
+package api1_Object;
 
 public class T1_hashCode1 {
 	public static void main(String[] args) {
